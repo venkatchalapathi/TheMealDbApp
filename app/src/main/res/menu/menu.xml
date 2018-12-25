@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/latest_string"
+        android:id="@+id/latest">
+
+    </item>
+    <item
+        android:title="@string/random_string"
+        android:id="@+id/random">
+
+    </item>
+    <item
+        android:title="@string/favourates_string"
+        android:id="@+id/favourite">
+
+    </item>
+    <item
+        android:title="@string/browse_by_string"
+        android:id="@+id/browse">
+        <menu>
+            <item
+                android:title="@string/country_string"
+                android:id="@+id/country">
+
+            </item>
+            <item
+                android:title="@string/category_string"
+                android:id="@+id/name">
+
+            </item>
+        </menu>
+
+    </item>
+    <item
+        android:title="@string/sign_out_string"
+        android:id="@+id/signout"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>

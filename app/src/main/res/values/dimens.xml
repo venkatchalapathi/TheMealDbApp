@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="tsfdp">374dp</dimen>
+    <dimen name="fnedp">498dp</dimen>
+    <dimen name="eightdp">8dp</dimen>
+    <dimen name="tzsp">30sp</dimen>
+    <dimen name="onesixdp">16dp</dimen>
+    <dimen name="ttzdp">320dp</dimen>
+    <dimen name="sixedp">68dp</dimen>
+    <dimen name="sevendp">7dp</dimen>
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="fouzzdp">400dp</dimen>
+    <dimen name="twofdp">24dp</dimen>
+    <dimen name="szdp">70dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="sixdp">6dp</dimen>
+    <dimen name="threedp">3dp</dimen>
+    <dimen name="fiftydp">50dp</dimen>
+    <dimen name="fortydp">40dp</dimen>
+    <dimen name="thrtydp">30dp</dimen>
+    <dimen name="twodp">2dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="onesixsp">16sp</dimen>
+    <dimen name="twentydp">20dp</dimen>
+    <dimen name="hundp">100dp</dimen>
+    <dimen name="sixeightdp">68dp</dimen>
+    <dimen name="eightfivedp">85dp</dimen>
+    <dimen name="twofivedp">25dp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="twentyfoursp">24sp</dimen>
+    <dimen name="twentysp">20sp</dimen>
+    <dimen name="fivesevendp">57dp</dimen>
+    <dimen name="threetwodp">32dp</dimen>
+    <dimen name="onetwosp">12sp</dimen>
+    <dimen name="onefiftydp">150dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+    <dimen name="eighteensp">18sp</dimen>
+    <dimen name="fourfivedp">45dp</dimen>
+    <dimen name="tzzdp">300dp</dimen>
+    <dimen name="twohundp">200dp</dimen>
+</resources>

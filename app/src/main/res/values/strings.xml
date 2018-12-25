@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="no_meals_found">No Meals Found</string>
+
+    <string-array name="countries_string">
+        <item>Arabic</item>
+        <item>Argentinian</item>
+        <item>British</item>
+        <item>Canadian</item>
+        <item>Chinese</item>
+        <item>Croatian</item>
+        <item>Dutch</item>
+        <item>Egyptian</item>
+        <item>French</item>
+        <item>Greek</item>
+        <item>Indian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Jamaican</item>
+        <item>Japanese</item>
+        <item>Malaysian</item>
+        <item>Mexican</item>
+        <item>Moroccan</item>
+        <item>Norwegian</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Slovakian</item>
+        <item>Spanish</item>
+        <item>Thai</item>
+        <item>American</item>
+        <item>Vietnamese</item>
+    </string-array>
+    <string-array name="names">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string name="appwidget_text">TheMealDB</string>
+    <string name="add_widget">Add widget</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6699750832975291/3243456302</string>
+    <string name="country">Select Country</string>
+    <string name="ads_app_id">ca-app-pub-6699750832975291~7326117644</string>
+    <string name="items">Items</string>
+    <string name="failed">failed</string>
+    <string name="countryes_title">Country</string>
+    <string name="alert_msg">Please enable internet</string>
+    <string name="alert_title">Network connection failed!</string>
+    <string name="alert_pos_button">Goto Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="favs">Favourites</string>
+    <string name="prog_title">Getting Data!</string>
+    <string name="prog_msd">Loading...</string>
+    <string name="latest">Latest Meals</string>
+    <string name="random">Random Meals</string>
+    <string name="remove_from_fav">Removed from Favourite</string>
+    <string name="added_to_fav">Added To Favourites</string>
+    <string name="login">User Login</string>
+    <string name="login_prog_title">Logging In</string>
+    <string name="login_prog_msg">Please wait a while...</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="reg_prog_title">Ragistering user</string>
+    <string name="reg_prog_msg">Please wait a while...</string>
+    <string name="reg_failed">Registration Failed</string>
+    <string name="reg_success">Registration Successful</string>
+    <string name="login_success">Login Success</string>
+    <string name="for_titile">Forgot Password</string>
+    <string name="forgot_po_btn">Send Reset Link to Above Mail</string>
+    <string name="reset_success">Reset Link Sent to given Mail,Please reset your password.</string>
+    <string name="reset_failed">Failed to send reset link</string>
+    <string name="test_add_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="procedure">Procedure :</string>
+    <string name="lofab">loginFab</string>
+    <string name="reg">REGISTER</string>
+    <string name="mailid">Mail Id</string>
+    <string name="pass">Password</string>
+    <string name="next">Next</string>
+    <string name="enter_your_e_mail_id">Enter your E-mail Id</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="mesure">Mesure</string>
+    <string name="title">Title</string>
+    <string name="please_enter">Please Enter Above Fields</string>
+    <string name="favourites_button">favourites button</string>
+    <string name="loginfab">loginFab</string>
+    <string name="add_user_screen">add user screen</string>
+    <string name="go">Go</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="close_registration">Close registration</string>
+    <string name="main_image">main image</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="contry">Contry</string>
+    <string name="latest_string">Latest</string>
+    <string name="random_string">Random</string>
+    <string name="favourates_string">Favourates</string>
+    <string name="browse_by_string">Browse By</string>
+    <string name="country_string">Country</string>
+    <string name="category_string">Category</string>
+    <string name="sign_out_string">Sign out</string>
+</resources>

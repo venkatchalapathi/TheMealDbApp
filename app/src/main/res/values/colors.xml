@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#BB86FC</color>
+    <color name="grey">#c1bfbf</color>
+    <color name="bgcolor">#d0ece5</color>
+    <color name="bg_two_color">#eff2f2</color>
+    <color name="bg_three">#f2eeee</color>
+    <color name="tex_color">#5981f7</color>
+    <color name="login_bg">#2ea67f</color>
+    <color name="colortext">#f0f7f4</color>
+    <color name="whitecolor">#fff</color>
+    <color name="texcolorhint">#f0f7f4</color>
+    <color name="editcolor">#f0f7f4</color>
+
+    <color name="colortextt">#2fa881</color>
+    <color name="widgetcolor">#09C</color>
+    <color name="text_widgetcolor">#ffffff</color>
+    <color name="greycolor">#9a9a9a</color>
+    <color name="black">#000</color>
+    <color name="greencolor">#2fa881</color>
+    <color name="yellow">#FFCC00</color>
+</resources>
