@@ -73,6 +73,32 @@ For documentation https://themealdb.com/api.php
 
 # Start Developing our App
 
-## Create login Screen as follows:
+## Create Screens as follows:
 
 <img src="https://user-images.githubusercontent.com/46043313/50432604-0b3df700-08f9-11e9-8659-ede9021bced7.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432782-20675580-08fa-11e9-81b0-a8b59850dd2a.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432790-2cebae00-08fa-11e9-8a72-65ba4d090996.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432791-2d844480-08fa-11e9-986d-3e9ef31c20ef.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432792-2d844480-08fa-11e9-8907-7d7829de0201.png" width="300" height="450"/> 
+
+
+<img src="https://user-images.githubusercontent.com/46043313/50432794-2d844480-08fa-11e9-9f84-9d2ec19d82ed.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432795-2e1cdb00-08fa-11e9-9ac7-cf61c5de76bf.png" width="300" height="450"/> 
+
+<img src="https://user-images.githubusercontent.com/46043313/50432796-2e1cdb00-08fa-11e9-96ec-e12bf14f04aa.png" width="300" height="450"/>
+
+<img src="https://user-images.githubusercontent.com/46043313/50432797-2e1cdb00-08fa-11e9-8aad-d0009e52e230.png" width="300" height="450"/> 
+                                                                                                                                       <img src="https://user-images.githubusercontent.com/46043313/50432800-2eb57180-08fa-11e9-9375-2fdb860a0828.png" width="300" height="450"/> 
+                                                                                                                                       
+                                                                                                                                       
+### Start writing Code accordingly Thank You :-)                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                   
+                                                                                                                             
+                                                                                                                                  
+
